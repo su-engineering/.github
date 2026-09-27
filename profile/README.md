@@ -1,39 +1,44 @@
 <a href="https://su.engineering">
-  <img src="https://raw.githubusercontent.com/su-engineering/.github/main/assets/banner.png" alt="su.engineering — water. fire. code. — identity and privacy engineering in Bilbao" width="1200">
+  <img src="https://raw.githubusercontent.com/su-engineering/.github/main/assets/banner.png" alt="su.engineering: independent product and engineering studio in Bilbao. Identity, privacy, AI, security, distributed systems." width="1200">
 </a>
 
-### identity. privacy. products + projects.
+### We design and build software for hard technical problems.
 
-We're a product studio and engineering practice in **Bilbao, Basque Country**. We build cryptographic infrastructure that returns privacy, value, and control to people and local communities.
+su.engineering is an independent product & engineering studio in **Bilbao, Basque Country**. We help companies, system integrators, enterprise teams and research consortia design and ship technically difficult software.
 
-Two directions, one engineering practice: tools we develop ourselves, and systems we build with clients.
+**Identity · Privacy · AI · Security · Distributed systems**
 
-#### from the studio
+#### project work
 
-| Product | What we're building |
-| :--- | :--- |
-| [**Velum Privacy**](https://velumprivacy.com) | Local protection for AI workflows. Mask personal and sensitive data before it reaches an LLM, then restore it in the reply. |
-| [**openKYC**](https://openkyc.org) | User-held verifiable credentials for reusable identity verification. Carry the proof, share what matters. |
-| [**REM**](https://reconciled.dev) | Reconciled Engineering Memory. Shared, evidence-linked engineering knowledge for teams using AI coding agents. **Private beta.** |
+- **[Identity & EUDI](https://su.engineering/project-work/identity)**: wallets, issuers, verifiers, credentials and interoperability.
+- **[Product Engineering](https://su.engineering/project-work/product-engineering)**: from ambitious technical idea to working product.
+- **[Specialist Partner](https://su.engineering/project-work/partners)**: senior engineering capability inside your existing project.
 
-#### built with you
+We stay small and senior, and build the team around the problem: from one specialist to a full delivery team. Our team brings experience from **30+ enterprise projects**, including work before founding su.engineering.
 
-- **[Identity & EUDI](https://su.engineering/project-work/identity)** — verifiable credentials, wallet integrations, issuer and verifier services, and enterprise identity workflows.
-- **[Privacy engineering](https://su.engineering/project-work/privacy)** — data boundaries, local processing, privacy controls, and AI integrations.
-- **AI, web3 & enterprise software** — engineering for startups, enterprises, and the public sector.
+#### products
 
-Before founding su.engineering, our team built **30+ enterprise projects** across these fields. That experience informs our products and client work.
+We build what we advise on.
 
-#### code & field notes
+| Product | Status | What it is |
+| :--- | :--- | :--- |
+| [**Velum**](https://velumprivacy.com) | Live | Privacy infrastructure for everyday AI workflows. Keeps sensitive information from being exposed to AI tools and other external services. |
+| [**OpenKYC**](https://openkyc.org) | Approaching launch | Reusable identity verification without repeating KYC. Credential-based identity and age verification built on reusable proofs. |
+| [**REM**](https://reconciled.dev) | In development | Shared engineering memory for teams working with AI agents, across developers, repositories and coding tools. |
 
-[**heic-web**](https://github.com/su-engineering/heic-web) — browser-first HEIC/HEIF decoding and JPEG/PNG conversion for TypeScript, with native decoding and an optional lazy WebAssembly fallback.
+#### open source
 
-Our [**engineering notes**](https://su.engineering/blog) cover identity systems, EUDI integrations, and protecting data in AI workflows.
+- [**heic-web**](https://github.com/su-engineering/heic-web): HEIC support for modern web applications, in browsers where native support is limited or inconsistent.
+- [**react-native-nearby-interaction**](https://github.com/su-engineering/react-native-nearby-interaction): Apple's Nearby Interaction framework for React Native apps.
+
+#### writing
+
+[Engineering notes](https://su.engineering/writing) from actual work: digital identity and EUDI, privacy engineering, AI systems, security, distributed systems and product engineering.
 
 ---
 
-**What shall we build together?** [hello@su.engineering](mailto:hello@su.engineering)
+**Bring us the hard part.** [Discuss a project](https://su.engineering/contact) or write to [hello@su.engineering](mailto:hello@su.engineering).
 
-[Website](https://su.engineering) · [Engineering notes](https://su.engineering/blog) · [RSS](https://su.engineering/feed.xml)
+[Website](https://su.engineering) · [Expertise](https://su.engineering/expertise) · [Writing](https://su.engineering/writing) · [RSS](https://su.engineering/feed.xml)
 
-<sub>“su” means water in Turkish and fire in Basque. Precision and fluidity. Technical depth and human purpose.</sub>
+<sub>"su" means water in Turkish and fire in Basque.</sub>

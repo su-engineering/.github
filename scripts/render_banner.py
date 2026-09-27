@@ -39,7 +39,9 @@ for row, value in enumerate(wordmark):
 
 line((48, 265), (1152, 265), "#4d4c43")
 text((48, 286), "water. fire. code.", 18, "#ff6538")
-text((666, 289), "identity. privacy. products + projects.", 16, "#aaa79d")
+tagline = "identity · privacy · ai · security · distributed systems"
+tagline_font = ImageFont.truetype(args.font, 16 * SCALE)
+text((1152 - draw.textlength(tagline, font=tagline_font) / SCALE, 289), tagline, 16, "#aaa79d")
 
 output = Path(__file__).resolve().parents[1] / "assets" / "banner.png"
 output.parent.mkdir(parents=True, exist_ok=True)

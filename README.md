@@ -14,4 +14,4 @@ Install Pillow, then run:
 python scripts/render_banner.py --font /path/to/JetBrainsMono-Regular.ttf
 ```
 
-The profile copy is based on the company's [published content](https://su.engineering/content.json). Keep product availability and public links current.
+The profile copy follows the positioning, project work, products and open-source work published on [su.engineering](https://su.engineering). Keep product status and public links current.

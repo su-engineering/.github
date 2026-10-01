@@ -30,6 +30,7 @@ We build what we advise on.
 
 - [**heic-web**](https://github.com/su-engineering/heic-web): HEIC support for modern web applications, in browsers where native support is limited or inconsistent.
 - [**react-native-nearby-interaction**](https://github.com/su-engineering/react-native-nearby-interaction): Apple's Nearby Interaction framework for React Native apps.
+- [**keycloak-oid4vp**](https://github.com/su-engineering/keycloak-oid4vp): OpenID4VP wallet login for Keycloak, with SD-JWT VC and mDoc verification and X.509, did:web or did:webvh issuer trust.
 
 #### writing
 
